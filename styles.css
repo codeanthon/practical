@@ -1,0 +1,51 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+#all{
+    text-align: center;
+    background-color: rgb(72, 198, 198);
+    padding: 20px;
+    margin: 20px 25%
+
+}
+.head{
+    font-size: 3rem;
+    color: rgb(35, 37, 37);
+    text-transform: capitalize;
+    padding-bottom: 2%;
+}
+.count{
+    font-size: 5rem;
+    color: yellow;
+    padding-bottom: 2%;
+}
+.bt1{
+    font-size: 2.3rem;
+    border-radius: 0.5rem;
+    border: none;
+    color: black;
+    background-color: red;
+    padding: 5px;
+    text-transform: capitalize;
+}
+.bt2{
+    font-size: 2.3rem;
+    border-radius: 0.5rem;
+    border: none;
+    color: black;
+    background-color: blue;
+    padding: 5px;
+    text-transform: capitalize;
+}
+.bt3{
+    font-size: 2.3rem;
+    border-radius: 0.5rem;
+    border: none;
+    color: black;
+    background-color: green;
+    padding: 5px;
+    text-transform: capitalize;
+}
